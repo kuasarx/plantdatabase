@@ -1,5 +1,6 @@
 # plantdatabase
-Base de datos de plantas recopiladas por diversos medios
+Base de datos de plantas recopiladas por diversos medios.
+
 
 
 
